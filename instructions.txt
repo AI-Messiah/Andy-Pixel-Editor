@@ -1,0 +1,21 @@
+This app was made so that you can edit an image at the pixel level which is useful for image editing and other applications it doesn't have any image editing functions itself Except for the ability to fill sections.
+
+First open the image you would like to edit.
+
+Then drag the flashing box to the area of the first pixel you would like to fill.
+
+Click on the pixel in the magnify box.
+
+Click on the select button and then you can use the arrow keys to select other pixels.
+
+You can then make an enclosed shape and fill one side by clicking on it in the magnify box or
+
+You can just make a line or pixel and fill it with the line fill button.
+
+When selecting a shape try to only select the pixels you want to fill, you can always go back and edit it more later.
+
+The selected pixels are a part of the filling function.
+
+For some image types saving is not supported but you can save it in another format with the save as button.
+
+If the saving format does not support the alpha channel the color of the image will be whatever color settings were selected.
